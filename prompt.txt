@@ -1,0 +1,29 @@
+tolong buatkan kode pemograman yang dapat menjumlahkan kedua bilangan yang dimana jika terjadi integer overflow maka akan tercetak overflow, jangan menggunakan tipe data long, biginteger, dan try-catch dengan menggunakan bahasa pemrograman java
+
+apakah bisa jika penyelesaian 5 soal kodenya disatuin di satu file aja di VS Code? apa harus dipisah per soalnya?
+
+kalo ga dipisah cara compile nya gimana, coba ajarin aku cara compile soal no itu tadi
+
+error: file not found: Main.java (kenapa error)
+
+ini nama file nya
+
+bikinin code yang versi dipisah satu satu
+
+compile nya di command prompt apa di powershell
+
+ini kenapa gini (error javac soal1.java)
+
+gajadi tolong dibuatin di satu file main.java aja
+
+kenapa ini outputnya kayak gini
+
+kenapa ini masih bisa dia itung ga overflow
+
+Float vs Double Precision Trap! (minta dibuatkan soal 2)
+
+sekarang buatin untuk soal ke 2 dan buatin logic nya kan ini ada 5 soal di dalam satu file gimana caranya pas kita compile itu bisa sesuai yang kita mau
+
+Soal 1 – 5 (kirim full deskripsi semua soal, minta dibuatin code rapi dan logic lancar saat compile)
+
+kenapa outputnya kayak gini
